@@ -3,7 +3,8 @@ export const onRequest = async (context) => {
 
   // Daftar rute yang ingin diproses
   const allowedRoutes = [
-    "/beatriz", 
+    "/beatriz",
+    "/silvia",
     "/rebeca"
   ];
 
