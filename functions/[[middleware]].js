@@ -5,6 +5,7 @@ export const onRequest = async (context) => {
   const allowedRoutes = [
     "/beatriz",
     "/silvia",
+    "/laura",
     "/rebeca"
   ];
 
